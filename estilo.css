@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.libro {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  margin: 15px auto;
+  padding: 20px;
+  max-width: 600px;
+  box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+.libro h2 {
+  margin: 0 0 10px;
+}
+
+.libro p {
+  margin: 4px 0;
+}
